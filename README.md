@@ -1,4 +1,4 @@
-sway-connect is [Connect][connect] middleware for [Swagger][swagger] integrations.
+sway-connect-multer is [Connect][connect] middleware for [Swagger][swagger] integrations.
 
 **More to come**
 
